@@ -1,0 +1,48 @@
+h1{
+    display: inline;
+    color: red 
+}
+input{
+    width: 900px;
+    height: 30px;
+}
+div{
+    height: 250px;
+    width: 180px;
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 10px 10px 10px;
+    display: inline-block;
+    margin: 20px;
+    margin-left: 70px;  
+}
+img{
+    height: 100px;
+    width: 130px;
+}
+body{
+    background-color: cadetblue;
+}
+
+.button1{
+    background-color: lightskyblue;
+    width: 80px;
+    height: 30px;
+}
+.button2{
+    background-color: lightsalmon;
+    width: 80px;
+    height: 30px;
+}
+.highlight{
+    background-color: rgb(38, 143, 38);
+    height:30px;
+    color: azure;
+}
+.span1{
+    color: white;
+}
+.span2{
+    color: black;
+}
